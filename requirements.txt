@@ -1,0 +1,8 @@
+cohere
+gemini
+groq
+huggingface_hub
+ollama
+openai
+
+all of these api keys
